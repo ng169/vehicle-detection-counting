@@ -34,11 +34,6 @@
     venv\Scripts\activate.bat
     ```
 
-    - On Windows (Command Prompt):
-
-    ```shell
-    venv\Scripts\activate.bat
-    ```
 
     - On Windows (PowerShell):
 
